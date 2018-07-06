@@ -14,6 +14,13 @@ It is divided into three steps：
 ## Extract the centerline
 There are two different methods that are applied in this step, Skeletonize Method & Voronoi Method.
 
+Scenario:<br>
+<img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/scenario.png" width = "50%" height = "50%" div align=center />
+
+Grid-based Map:<br>
+<img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/Grid-based%20map.png" width = "50%" height = "50%" div align=center />
+
+Centerline:<br>
 <img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/The%20centerline%20of%20the%20road.png" width = "50%" height = "50%" div align=center />、
 
 ### Skeletonize
@@ -31,6 +38,8 @@ Ref:
 Refine the centerline.
 
 <img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/checking%26detecting.png" width = "40%" height = "40%" div align=center />
+
+<img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/distance.png" width = "40%" height = "40%" div align=center />
 
 ## Generate a Topological Map
 According to the rules, generate a topology map based on the centerline.
