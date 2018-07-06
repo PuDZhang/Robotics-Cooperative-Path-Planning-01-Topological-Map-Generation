@@ -21,11 +21,11 @@ Grid-based Map:<br>
 <img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/Grid-based%20map.png" width = "50%" height = "50%" div align=center />
 
 Centerline:<br>
-<img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/The%20centerline%20of%20the%20road.png" width = "50%" height = "50%" div align=center />、
+<img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/The%20centerline%20of%20the%20road.png" width = "50%" height = "50%" div align=center />
 
 ### Skeletonize
 Skeletonization reduces binary objects to 1 pixel wide representations.<br> 
-This can be useful for feature extraction, and/or representing an object’s topology.<br>
+This can be useful for feature extraction, or representing an object’s topology.<br>
 <img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/skeletonize.png" width = "40%" height = "40%" div align=center />
 
 ### Voronoi
