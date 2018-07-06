@@ -8,6 +8,7 @@ The topological map can be used in multi-vehicle path(movement sequence) plannin
 
 It is divided into three steps： 
 1. Extract the centerline of the free space.<br>
+
 <img src="https://github.com/ChenBohan/Robotics-Path-Planning-Topological-Map-Generation/blob/master/pic/The%20centerline%20of%20the%20road.png" width = "60%" height = "60%" div align=center />、
 
 2. Do the collision checking & width detecting.<br>
